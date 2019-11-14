@@ -1,10 +1,10 @@
 body{
-	background: url(../img/body_bg.jpg);
+	background: url(../img/cer_senin.jpg);
 	background-attachment: fixed;
 }
 
 .element{
-	background: url(../img/smile_bg.jpg);
+	background: url(../img/soare.jpg);
 	width: 200px;
 	height: 200px;
 	border: 1px solid gray;
