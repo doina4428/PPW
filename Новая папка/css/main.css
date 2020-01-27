@@ -58,7 +58,7 @@ nav.menu a{
 	text-align: center;
 	color: white;
 	text-decoration: none;
-	background: red;
+	background: gold;
 }
 
 nav.menu a:hover{
@@ -178,5 +178,11 @@ section#news article p{
 	#video ul iframe{
 		width:400px;
 		height: 300px;
+	}
+	#contact img{
+	width: 150px;
+	height: 200px;
+	border: 1px solid black;
+	border-radius: 5px;
 	}
 }
